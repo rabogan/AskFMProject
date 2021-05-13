@@ -1,5 +1,6 @@
 # AskFMProject
 This version of AskFM uses neither OOP nor pointers
+
 <img width="469" alt="Snapshot of the initial menu" src="https://user-images.githubusercontent.com/71470525/118162647-e8083980-b418-11eb-8dc3-8bbf84e3af60.png">
 <img width="675" alt="SigningUp" src="https://user-images.githubusercontent.com/71470525/118162665-ec345700-b418-11eb-8247-e825e4d2a5b6.png">
 <img width="660" alt="FailingToSignUp" src="https://user-images.githubusercontent.com/71470525/118162674-efc7de00-b418-11eb-9d73-d2f3dce39e30.png">
