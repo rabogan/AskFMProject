@@ -30,3 +30,7 @@ This shows the response to the question:
 This prints out all questions from the user:
 
 <img width="402" alt="PrintingQsFromUser8" src="https://user-images.githubusercontent.com/71470525/118162762-0a01bc00-b419-11eb-958e-05a2a49c46aa.png">
+
+We offer each user the chance to delete any question put to them.   They can delete any 'parent' question (and, thus, the entire thread of questions that follows it), or any individual question at all.   Thus, if one question in a thread is deem worthy of deletion, the remainder of the questions will not be affected by the delete.
+
+<img width="398" alt="DeleteQuestion" src="https://user-images.githubusercontent.com/71470525/118311892-6d0e5400-b4e8-11eb-961d-b354406335ed.png">
