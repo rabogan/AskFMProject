@@ -1,5 +1,5 @@
 # AskFMProject
-This version of AskFM uses neither OOP nor pointers.  At the time of writing, some small modifications need to be made to Option 4 (Delete Question) and I want to streamline some other aspects of the code too; such as not printing questions out multiple times when answering a question.
+This version of AskFM uses neither OOP nor pointers.  Although all functions are working, the error handling is not where it would need to be, and I want to streamline some other aspects of the code; such as not printing questions out multiple times when answering a question, terminating a function (such as the DeleteQuestion(User &user) function) immediately when no questions are found; rather than wait for the user to input a '-1'.
 
 Firstly, we offer the option to Log In or Sign Up.
 
